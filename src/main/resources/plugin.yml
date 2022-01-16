@@ -1,0 +1,9 @@
+name: Influence
+version: '${project.version}'
+main: me.dkflab.influence.Influence
+api-version: 1.18
+authors: [ dkflab ]
+description: Influence plugin
+commands:
+  influence:
+    description: Main command

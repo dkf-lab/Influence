@@ -1,0 +1,4 @@
+costForFaction: 10
+command: '/f create %faction%'
+balances:
+  uuid: 0
